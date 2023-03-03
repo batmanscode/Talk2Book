@@ -1,0 +1,7 @@
+langchain
+InstructorEmbedding
+sentence_transformers
+faiss-cpu
+openai
+huggingface_hub
+pypdf

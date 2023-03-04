@@ -4,11 +4,24 @@ Use AI to personify books, so that you can talk to them 🙊
 
 
 ## Notebooks
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/batmanscode/Talk2Book/HEAD)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/batmanscode/Talk2Book/tree/main/)
+[<img src="https://deepnote.com/buttons/launch-in-deepnote-small.svg">](https://deepnote.com/launch?url=https%3A%2F%2Fgithub.com%2Fbatmanscode%2FTalk2Book)
 
 ### `Talk2Book.ipynb`
+
+<a target="_blank" href="https://colab.research.google.com/github/batmanscode/Talk2Book/blob/main/Talk2Book.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 Use this to talk to '1984'. Embeddings for this book have already been created so you can use it out of the box 📦
 
 ### `Book2Vec.ipynb`
+
+<a target="_blank" href="https://colab.research.google.com/github/batmanscode/Talk2Book/blob/main/Book2Vec.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 Use this to see how embeddings or create your own for another book!
 
 ## Limitations

@@ -1,6 +1,6 @@
 # Talk2Book 📖
 
-Use AI to personify books, so that you can talk to it 🙊
+Use AI to personify books, so that you can talk to them 🙊
 
 
 ## Notebooks
@@ -26,17 +26,20 @@ This can't yet do summaries or continue a conversaion; each question gets a sing
 4. Make changes, run your notebooks
 
 In the terminal, before each commit:
+
 5. Run `nbdev_install_hooks` to clean the notebooks (removes metadata)
 
 And finally:
+
 6. Submit your PR
 
 
 **Codespaces/VSCode**
+
 Everything you need will be installed when you open Codespaces/VSCode; specified in `.devcontainer/`
 
-Notes for Codespaces:
+*Notes for Codespaces:*
 
 - Currently Jupyter notebook doesn’t work on Codespaces for an unknown reason, or at least I can’t, so you’ll have to use JupyterLab
-- Open with jupyter lab --NotebookApp.allow_origin='*' --NotebookApp.ip='0.0.0.0'
+- Open with `jupyter lab --NotebookApp.allow_origin='*' --NotebookApp.ip='0.0.0.0'`
 - For more info on using see https://code.visualstudio.com/docs/datascience/notebooks-web

@@ -22,7 +22,7 @@ Use this to talk to '1984'. Embeddings for this book have already been created s
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-Use this to see how embeddings or create your own for another book!
+Use this to see how embeddings for '1984' were made or create your own for another book!
 
 ## Limitations
 This can't yet do summaries or continue a conversaion; each question gets a single answer. Contributions for these are very welcome!

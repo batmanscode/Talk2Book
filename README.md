@@ -40,14 +40,14 @@ This can't yet do summaries or continue a conversaion; each question gets a sing
 
 In the terminal, before each commit:
 
-5. Run `nbdev_install_hooks` to clean the notebooks (removes metadata)
+5. Run [`nbdev_install_hooks`](https://nbdev.fast.ai/tutorials/tutorial.html#install-hooks-for-git-friendly-notebooks) to clean the notebooks (removes metadata)
 
 And finally:
 
 6. Submit your PR
 
 
-**Codespaces/VSCode**
+**Using Codespaces/VSCode**
 
 Everything you need will be installed when you open Codespaces/VSCode; specified in `.devcontainer/`
 

@@ -27,6 +27,9 @@ Use this to see how embeddings for '1984' were made or create your own for anoth
 ## Limitations
 This can't yet do summaries or continue a conversaion; each question gets a single answer. Contributions for these are very welcome!
 
+## Potential improvements
+Save good outputs to use as examples in the prompt (few shot).
+
 ## How can I talk to another book?
 1. Create a vector store with embeddings using `Book2Vec.ipynb`
 2. Upload to https://huggingface.co as a dataset (recommended)

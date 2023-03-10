@@ -1,6 +1,20 @@
 # Talk2Book 📖
 
-Use AI to personify books, so that you can talk to them 🙊
+**Use AI to personify books, so that you can talk to them 🙊**
+
+<br>
+<figure>
+    <p align="center">
+        <img src="https://user-images.githubusercontent.com/29989939/224299898-7a29bdf4-3449-4d7f-bf29-568631ec3da7.png" alt="Talk2Book: 1984 on Hugging Face Spaces">
+    </p>
+    <figcaption>
+        <p align="center">
+            <a href="https://huggingface.co/spaces/calmgoose/Talk2Book-1984"> <i> Use on Hugging Face Spaces </i> </a>
+        </p>
+    </figcaption>
+</figure>
+
+
 
 
 ## Notebooks

@@ -9,7 +9,7 @@
     </p>
     <figcaption>
         <p align="center">
-            <a href="https://huggingface.co/spaces/calmgoose/Talk2Book-1984"> <i> Use on Hugging Face Spaces </i> </a>
+            <a href="https://huggingface.co/spaces/calmgoose/Talk2Book-1984"> <i> Use the Talk2Book app on Hugging Face Spaces </i> </a>
         </p>
     </figcaption>
 </figure>
@@ -48,6 +48,10 @@ Save good outputs to use as examples in the prompt (few shot).
 1. Create a vector store with embeddings using `Book2Vec.ipynb`
 2. Upload to https://huggingface.co as a dataset (recommended)
 3. Use `Talk2Book.ipynb` with the vector store you created
+
+And make it an app:
+
+4. Duplicate this [Hugging Face Space](https://huggingface.co/spaces/calmgoose/Talk2Book) (or just copy the code in `app.py`) and change the vector store to the one you created in step 2
 
 ## Contributing
 1. Fork
